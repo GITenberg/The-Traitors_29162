@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/594
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29162#The-Traitors
 gutenberg_issued: '2009-06-19'
 gutenberg_type: Text
 identifiers:
